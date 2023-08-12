@@ -1,0 +1,8 @@
+baseURL: "https://openwebdefenders.org/"
+languageCode: "en-us"
+title: "Web Environment Integrity: What's Going On?"
+theme: "hugo-bearblog"
+menu: []
+
+params:
+  hideMadeWithLine: true
